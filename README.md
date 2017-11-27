@@ -5,11 +5,14 @@
 
 ``` bash
 # 安装项目依赖
-npm install --save-dev
+$ npm install --save-dev
 
 # 运行项目，监听端口号为 localhost:8080
-npm run dev
+$ npm run dev
 
 # 项目打包编译
-npm run build
+$ npm run build
 
+# 运行打包编译后的代码
+
+$ node prod.serve.js
