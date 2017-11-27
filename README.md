@@ -1,21 +1,15 @@
-# sell
-
-> sell app
-
+## vue-sell
+这是我通过学习慕课网上的课程编写的仿饿了么webapp项目，课程地址：http://coding.imooc.com/class/74.html
+课程使用的是vue1.x，我用vue2.x重写了。
 ## Build Setup
 
 ``` bash
-# install dependencies
-npm install
+# 安装项目依赖
+npm install --save-dev
 
-# serve with hot reload at localhost:8080
+# 运行项目，监听端口号为 localhost:8080
 npm run dev
 
-# build for production with minification
+# 项目打包编译
 npm run build
 
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
