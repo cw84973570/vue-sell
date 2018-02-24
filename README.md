@@ -3,7 +3,7 @@
 课程使用的是vue1.x，我用vue2.x重写了。
 
 [在线预览](http://120.79.213.45:8083/)
-[!手机端请扫二维码](https://github.com/cw84973570/vue-sell/blob/master/QR-code.png)
+![手机端请扫二维码](https://github.com/cw84973570/vue-sell/blob/master/QR-code.png)
 
 ## Build Setup
 
