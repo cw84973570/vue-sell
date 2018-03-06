@@ -131,8 +131,9 @@
                 this.selectType = type
                 // console.log(this.scroll)
                 this.$nextTick(() => {
-                    // console.log(this.scroll)
-                    this.scroll.refresh()
+                    if (this.scroll) {
+                        this.scroll.refresh()
+                    }
                 })
             },
             _contentToggleFood (onlyContent) {
@@ -140,7 +141,9 @@
                 console.log(onlyContent)
                 this.onlyContent = onlyContent
                 this.$nextTick(() => {
-                    this.scroll.refresh()
+                    if (this.scroll) {
+                        this.scroll.refresh()
+                    }
                 })
             }
         },
