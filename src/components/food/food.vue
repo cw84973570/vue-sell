@@ -125,7 +125,7 @@
                     return type === this.selectType
                 }
             },
-            // 事件监听回调函数
+            //  事件监听回调函数
             _ratingTypeFood (type) {
                 // let that = this
                 this.selectType = type
