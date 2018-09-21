@@ -4,7 +4,7 @@
 
 [在线预览](http://elm.ned2018.tk)
 
-![手机端请扫二维码](https://github.com/cw84973570/vue-sell/blob/master/QR-code.png)
+![手机端请扫二维码](https://github.com/cw84973570/vue-sell/blob/master/QR-elm.png)
 
 ## Build Setup
 
